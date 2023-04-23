@@ -34,9 +34,6 @@ The dataset is analyzed using various techniques such as data cleaning, feature 
 
 If you would like to contribute to this project, please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
